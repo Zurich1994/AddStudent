@@ -1,0 +1,25 @@
+﻿生成启动时间为 2015/9/6 16:11:38。
+     1>项目“F:\我的程序\C\焕然\档案管理系统 VS2005\AddStudent\AddStudent.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\Important\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\Debug\AddStudent.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt ADOConn.cpp Add.cpp AddStudent.cpp AddStudentDlg.cpp Query.cpp
+         Query.cpp
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): error C2006: “#import”: 应输入文件名，却找到“user-defined string literal”
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): fatal error C1083: 无法打开类型库文件: “”: No such file or directory
+         AddStudentDlg.cpp
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): error C2006: “#import”: 应输入文件名，却找到“user-defined string literal”
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): fatal error C1083: 无法打开类型库文件: “”: No such file or directory
+         AddStudent.cpp
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): error C2006: “#import”: 应输入文件名，却找到“user-defined string literal”
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): fatal error C1083: 无法打开类型库文件: “”: No such file or directory
+         Add.cpp
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): error C2006: “#import”: 应输入文件名，却找到“user-defined string literal”
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): fatal error C1083: 无法打开类型库文件: “”: No such file or directory
+         ADOConn.cpp
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): error C2006: “#import”: 应输入文件名，却找到“user-defined string literal”
+     1>f:\我的程序\c\焕然\档案管理系统 vs2005\addstudent\adoconn.h(9): fatal error C1083: 无法打开类型库文件: “”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“F:\我的程序\C\焕然\档案管理系统 VS2005\AddStudent\AddStudent.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.40
